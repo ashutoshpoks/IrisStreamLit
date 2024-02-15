@@ -31,5 +31,5 @@ if st.button("Predict type of Iris"):
 
 st.text('')
 st.text('')
-st.markdown("Thanks")
+st.markdown("By-Ashu")
 
